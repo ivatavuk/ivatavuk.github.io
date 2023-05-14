@@ -60,9 +60,9 @@ content:
           ![Team LARICS at MBZIRC 2020](/images/mbzirc2020.GIF "Team LARICS at MBZIRC 2020"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
       - layout: top-middle
-        title: Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator 
+        title: Task Space MPC for Vineyard Spraying with a Mobile Manipulator 
         description: | # this will include new lines to allow paragraphs
-          ![Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator](/images/task_space_mpc.GIF "Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          ![Task Space MPC for Vineyard Spraying with a Mobile Manipulator](/images/task_space_mpc.GIF "Task Space MPC for Vineyard Spraying with a Mobile Manipulator"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
           
       - layout: top-middle
         title: Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying 
