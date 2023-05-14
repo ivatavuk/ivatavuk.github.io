@@ -57,6 +57,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Centroidal dynamics based mutation-selection backflip Learning  
+        #link: github.com/ivatavuk/pik_ros
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  ivatavuk/pik_ros
+        #    icon: fab fa-github
+        #    url: github.com/ivatavuk/pik_ros
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+
+      - layout: top-middle
         title: Prioritized Inverse Kinematics ROS Library
         link: github.com/ivatavuk/pik_ros
         # link_text: Project Website
