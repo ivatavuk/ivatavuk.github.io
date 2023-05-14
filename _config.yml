@@ -74,8 +74,8 @@ content:
       
       - layout: top-middle
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
-        link: ieeexplore.ieee.org/document/9561101
-          link_text: ICRA 2021 paper
+        #link: ieeexplore.ieee.org/document/9561101
+        #  link_text: ICRA 2021 paper
         #additional_links:
         #  - title:  ivatavuk/pik_ros
         #    icon: fab fa-github
