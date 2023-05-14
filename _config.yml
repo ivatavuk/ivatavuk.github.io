@@ -12,7 +12,7 @@ email: vatavuk.ivo@gmail.com
 #website: https://ivatavuk.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -29,23 +29,6 @@ youtube_username: "@ivov7194"
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ivo and I'm . 
@@ -58,33 +41,11 @@ content:
     content:
       - layout: top-middle
         title: Centroidal dynamics based mutation-selection backflip learning  
-        #link: github.com/ivatavuk/pik_ros
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  ivatavuk/pik_ros
-        #    icon: fab fa-github
-        #    url: github.com/ivatavuk/pik_ros
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
       - layout: top-middle
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
-        #link: ieeexplore.ieee.org/document/9561101
-        #  link_text: ICRA 2021 paper
-        #additional_links:
-        #  - title:  ivatavuk/pik_ros
-        #    icon: fab fa-github
-        #    url: github.com/ivatavuk/pik_ros
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
@@ -96,64 +57,41 @@ content:
           - title:  ivatavuk/pik_ros
             icon: fab fa-github
             url: github.com/ivatavuk/pik_ros
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Prioritized inverse kinematics
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: LARICS, Faculty of Electrical Engineering and Computing, Zagreb, Croatia
-        link: https://larics.fer.hr/
-        # link_text: boringcompany.com
-        sub_title: Research associate
-        caption: 2018 - Present
-        #quote: >
-        #  Developing robotic
-        #description: | # this will include new lines to allow paragraphs
-        #    asdf
+  #- title: Experience # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #      title: LARICS, Faculty of Electrical Engineering and Computing, Zagreb, Croatia
+  #      link: https://larics.fer.hr/
+  #      # link_text: boringcompany.com
+  #      sub_title: Research associate
+  #      caption: 2018 - Present
+  #      #quote: >
+  #      #  Developing robotic
+  #      #description: | # this will include new lines to allow paragraphs
+  #      #    asdf
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Faculty of Electrical Engineering and Computing
-        caption: 2018 - now
-        sub_title: PHd Robotics
+  #- title: Education # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #      title: Faculty of Electrical Engineering and Computing
+  #      caption: 2018 - now
+  #      sub_title: PHd Robotics
         
-      - layout: left
-        title: Faculty of Electrical Engineering and Computing
-        caption: 2016 - 2018
-        sub_title: MSc Electrical Engineering
+  #    - layout: left
+  #      title: Faculty of Electrical Engineering and Computing
+  #      caption: 2016 - 2018
+  #      sub_title: MSc Electrical Engineering
         
-      - layout: left
-        title: Faculty of Electrical Engineering and Computing
-        caption: 2013 - 2016
-        sub_title: BSc Electrical Engineering
+  #    - layout: left
+  #      title: Faculty of Electrical Engineering and Computing
+  #      caption: 2013 - 2016
+  #      sub_title: BSc Electrical Engineering
         
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        #description: | # this will include new lines to allow paragraphs
-        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  #- title: A Little More About Me
-  #  layout: text
-  #  content: | # this will include new lines to allow paragraphs
-  #    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #    - Rock climbing
-  #    - Gaming
-  #    - Knitting
-  #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)#
-
-  #    Look at this cool image  
-  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
