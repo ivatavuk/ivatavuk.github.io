@@ -70,11 +70,6 @@ content:
           ![Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying](/images/prioritized_spraying.GIF "Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
       - layout: top-middle
-        title: Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering
-        description: | # this will include new lines to allow paragraphs
-          ![Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering](/images/direct_drive_brush.GIF "Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-      
-      - layout: top-middle
         title: Prioritized Inverse Kinematics ROS Library
         link: github.com/ivatavuk/pik_ros
         # link_text: Project Website
@@ -84,6 +79,12 @@ content:
             url: github.com/ivatavuk/pik_ros
         description: | # this will include new lines to allow paragraphs
           ![Prioritized Inverse Kinematics ROS Library](/images/pik_spraying.png "Prioritized Inverse Kinematics ROS Library"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          
+      - layout: top-middle
+        title: Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering
+        description: | # this will include new lines to allow paragraphs
+          ![Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering](/images/direct_drive_brush.GIF "Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      
 
   #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
