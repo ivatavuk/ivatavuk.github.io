@@ -40,6 +40,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: MPC Algorithm for Bipedal Walk Replanning  
+        description: | # this will include new lines to allow paragraphs
+          ![MPC Algorithm for Bipedal Walk Replanning](/images/nao_mpc_walk.GIF "MPC Algorithm for Bipedal Walk Replanning"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          
+      - layout: top-middle
         title: Backflip Learning using a Centroidal Dynamics based Mutation-Selection Algorithm 
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
@@ -48,6 +53,11 @@ content:
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
         description: | # this will include new lines to allow paragraphs
           ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      
+      - layout: top-middle
+        title: Autonomous, Mobile Manipulation in a Wall-building Scenario: Team LARICS at MBZIRC 2020 
+        description: | # this will include new lines to allow paragraphs
+          ![Team LARICS at MBZIRC 2020](/images/mbzirc2020.GIF "Team LARICS at MBZIRC 2020"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
       - layout: top-middle
         title: Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator 
@@ -59,6 +69,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           ![Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying](/images/prioritized_spraying.GIF "Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
+      - layout: top-middle
+        title: Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering
+        description: | # this will include new lines to allow paragraphs
+          ![Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering](/images/direct_drive_brush.GIF "Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
       - layout: top-middle
         title: Prioritized Inverse Kinematics ROS Library
