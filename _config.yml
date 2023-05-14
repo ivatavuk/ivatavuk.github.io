@@ -55,7 +55,7 @@ content:
           ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
       - layout: top-middle
-        title: Autonomous Mobile Manipulation in a Wall-building Scenario: Team LARICS at MBZIRC 2020 
+        title: Autonomous Mobile Manipulation in a Wall-building Scenario\: Team LARICS at MBZIRC 2020 
         description: | # this will include new lines to allow paragraphs
           ![Team LARICS at MBZIRC 2020](/images/mbzirc2020.GIF "Team LARICS at MBZIRC 2020"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
