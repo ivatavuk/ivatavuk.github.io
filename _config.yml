@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Centroidal dynamics based mutation-selection backflip Learning  
+        title: Centroidal dynamics based mutation-selection backflip learning  
         #link: github.com/ivatavuk/pik_ros
         # link_text: Project Website
         #additional_links:
