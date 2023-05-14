@@ -36,7 +36,7 @@ about_profile_image: images/profile.jpg
   #I am most skilled in: <mark>C++</mark>, <mark>Python</mark> and  <mark>ROS</mark>
 
 content:
-  - title: My robotics projects in a chronological order  # Title for the section
+  - title: Robotics projects in a chronological order - in progress # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
