@@ -83,7 +83,7 @@ content:
             icon: fab fa-github
             url: github.com/ivatavuk/pik_ros
         description: | # this will include new lines to allow paragraphs
-          Prioritized inverse kinematics
+          ![Prioritized Inverse Kinematics ROS Library](/images/pik_spraying.png "Prioritized Inverse Kinematics ROS Library"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
   #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
