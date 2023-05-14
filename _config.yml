@@ -71,6 +71,21 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      - layout: top-middle
+        title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
+        link: https://ieeexplore.ieee.org/document/9561101
+         link_text: ICRA 2021 paper
+        #additional_links:
+        #  - title:  ivatavuk/pik_ros
+        #    icon: fab fa-github
+        #    url: github.com/ivatavuk/pik_ros
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
       - layout: top-middle
         title: Prioritized Inverse Kinematics ROS Library
