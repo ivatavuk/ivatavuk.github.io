@@ -40,7 +40,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Centroidal dynamics based mutation-selection backflip learning  
+        title: Backflip Learning using a Centroidal Dynamics based Mutation-Selection Algorithm 
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
@@ -48,6 +48,11 @@ content:
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
         description: | # this will include new lines to allow paragraphs
           ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      
+      - layout: top-middle
+        title: Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator 
+        description: | # this will include new lines to allow paragraphs
+          ![Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator](/images/task_space_mpc.GIF "Task Space Model Predictive Control for Vineyard Spraying with a Mobile Manipulator"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
 
       - layout: top-middle
         title: Prioritized Inverse Kinematics ROS Library
