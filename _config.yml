@@ -36,7 +36,7 @@ about_profile_image: images/profile.jpg
   #I am most skilled in: <mark>C++</mark>, <mark>Python</mark> and  <mark>ROS</mark>
 
 content:
-  - title: Robotics projects in a chronological order - in progress # Title for the section
+  - title: Robotics projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       #- layout: top-middle
@@ -49,21 +49,25 @@ content:
         title: Backflip Learning using a Centroidal Dynamics based Mutation-Selection Algorithm 
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-      
+          <mark>Floating-base dynamics</mark><mark>Hybrid dynamics</mark><mark>Mutation-selection algorithm</mark>
+          
       - layout: top-middle
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
         description: | # this will include new lines to allow paragraphs
           ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-      
+          <mark>Floating-base dynamics</mark><mark>Hybrid dynamics</mark><mark>Bilevel optimization</mark>
+          
       - layout: top-middle
         title: Autonomous Mobile Manipulation in a Wall-building Scenario":" Team LARICS at MBZIRC 2020 
         description: | # this will include new lines to allow paragraphs
           ![Team LARICS at MBZIRC 2020](/images/mbzirc2020.GIF "Team LARICS at MBZIRC 2020"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-      
+          <mark>Manipulation</mark><mark>Navigation</mark><mark>SLAM</mark><mark>Autonomy</mark>
+          
       - layout: top-middle
         title: Task Space MPC for Vineyard Spraying with a Mobile Manipulator 
         description: | # this will include new lines to allow paragraphs
           ![Task Space MPC for Vineyard Spraying with a Mobile Manipulator](/images/task_space_mpc.GIF "Task Space MPC for Vineyard Spraying with a Mobile Manipulator"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          <mark>Manipulation</mark><mark>Navigation</mark><mark>SLAM</mark><mark>Autonomy</mark>
           
       - layout: top-middle
         title: Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying 
