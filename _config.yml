@@ -39,10 +39,11 @@ content:
   - title: Robotics projects in a chronological order - in progress # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: MPC Algorithm for Bipedal Walk Replanning  
-        description: | # this will include new lines to allow paragraphs
-          ![MPC Algorithm for Bipedal Walk Replanning](/images/nao_mpc_walk.GIF "MPC Algorithm for Bipedal Walk Replanning"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      #- layout: top-middle
+      #  title: MPC Algorithm for Bipedal Walk Replanning  
+      #  description: | # this will include new lines to allow paragraphs
+      #    ![MPC Algorithm for Bipedal Walk Replanning](/images/nao_mpc_walk.GIF "MPC Algorithm for Bipedal Walk Replanning"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      #    During the fourth year of my studies I worked on implementing this paper
           
       - layout: top-middle
         title: Backflip Learning using a Centroidal Dynamics based Mutation-Selection Algorithm 
