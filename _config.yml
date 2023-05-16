@@ -101,6 +101,9 @@ content:
           
       - layout: top-middle
         title: Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering
+        additional_links:
+          - title: youtube video
+            url: https://www.youtube.com/watch?v=5OMa_ViNi7M
         description: | # this will include new lines to allow paragraphs
           ![Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering](/images/direct_drive_brush.GIF "Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
           <mark>Direct drive actuation</mark> <mark>Compliant manipulation</mark> 
