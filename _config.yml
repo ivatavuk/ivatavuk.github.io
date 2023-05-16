@@ -30,10 +30,10 @@ youtube_username: "@ivov7194"
 # orcid_username: 0000-0000-0000-0000
 
 about_profile_image: images/profile.jpg
-#about_content: | # this will include new lines to allow paragraphs
-  #Hi, my name's Ivo and I'm . 
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Ivo and I'm a robotics researcher at LARICS, FER Croatia. 
 
-  #I am most skilled in: <mark>C++</mark>, <mark>Python</mark> and  <mark>ROS</mark>
+  Some of my skills are: <mark>C++</mark>, <mark>Python</mark>, <mark>ROS</mark>, <mark>Gazebo</mark>, <mark>MATLAB</mark>, <mark>Git</mark>, <mark>Docker</mark>
 
 content:
   - title: Robotics projects # Title for the section
