@@ -61,7 +61,7 @@ content:
         title: Autonomous Mobile Manipulation in a Wall-building Scenario":" Team LARICS at MBZIRC 2020 
         description: | # this will include new lines to allow paragraphs
           ![Team LARICS at MBZIRC 2020](/images/mbzirc2020.GIF "Team LARICS at MBZIRC 2020"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          <mark>Manipulation</mark> <mark>Navigation</mark> <mark>SLAM</mark> <mark>Autonomy</mark>
+          <mark>Mobile manipulation</mark> <mark>Visual servoing</mark> <mark>Computer vision</mark> <mark>Navigation</mark> <mark>SLAM</mark> <mark>Autonomy</mark>
           
       - layout: top-middle
         title: Task Space MPC for Vineyard Spraying with a Mobile Manipulator 
