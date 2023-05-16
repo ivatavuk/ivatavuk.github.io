@@ -49,7 +49,7 @@ content:
         title: Backflip Learning using a Centroidal Dynamics based Mutation-Selection Algorithm 
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          <mark>Floating-base dynamics</mark> <mark>Hybrid dynamics</mark> <mark>Mutation-selection</mark>
+          <mark>Floating-base dynamics</mark> <mark>Hybrid dynamics</mark> <mark>Mutation-selection algorithm</mark>
           
       - layout: top-middle
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
