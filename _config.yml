@@ -88,7 +88,7 @@ content:
       - layout: top-middle
         title: Plan Exploration for Viticultural Suckering using an Axis Symmetric Brush-Shaped Tool with Torque Sensing
         description: | # this will include new lines to allow paragraphs
-          ![Plan Exploration](/images/direct_drive_brush.GIF "Plan Exploration"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          ![Plan Exploration](/images/suckering.GIF "Plan Exploration"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
 
   #- title: Experience # Title for the section
