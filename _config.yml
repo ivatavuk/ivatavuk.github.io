@@ -85,6 +85,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           ![Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering](/images/direct_drive_brush.GIF "Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
       
+      - layout: top-middle
+        title: Plan Exploration for Viticultural Suckering using an Axis Symmetric Brush-Shaped Tool with Torque Sensing
+        description: | # this will include new lines to allow paragraphs
+          ![Plan Exploration](/images/direct_drive_brush.GIF "Plan Exploration"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+      
 
   #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
