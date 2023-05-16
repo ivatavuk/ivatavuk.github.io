@@ -49,31 +49,32 @@ content:
         title: Backflip Learning using a Centroidal Dynamics based Mutation-Selection Algorithm 
         description: | # this will include new lines to allow paragraphs
           ![One-legged backflip with different starting heights](/images/backflip.GIF "One-legged backflip with different starting heights"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          <mark>Floating-base dynamics</mark><mark>Hybrid dynamics</mark><mark>Mutation-selection algorithm</mark>
+          <mark>Floating-base dynamics</mark> <mark>Hybrid dynamics</mark> <mark>Mutation-selection</mark>
           
       - layout: top-middle
         title: Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization 
         description: | # this will include new lines to allow paragraphs
           ![Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization](/images/jump_planning.GIF "Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          <mark>Floating-base dynamics</mark><mark>Hybrid dynamics</mark><mark>Bilevel optimization</mark>
+          <mark>Floating-base dynamics</mark> <mark>Hybrid dynamics</mark> <mark>Bilevel optimization</mark>
           
       - layout: top-middle
         title: Autonomous Mobile Manipulation in a Wall-building Scenario":" Team LARICS at MBZIRC 2020 
         description: | # this will include new lines to allow paragraphs
           ![Team LARICS at MBZIRC 2020](/images/mbzirc2020.GIF "Team LARICS at MBZIRC 2020"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          <mark>Manipulation</mark><mark>Navigation</mark><mark>SLAM</mark><mark>Autonomy</mark>
+          <mark>Manipulation</mark> <mark>Navigation</mark> <mark>SLAM</mark> <mark>Autonomy</mark>
           
       - layout: top-middle
         title: Task Space MPC for Vineyard Spraying with a Mobile Manipulator 
         description: | # this will include new lines to allow paragraphs
           ![Task Space MPC for Vineyard Spraying with a Mobile Manipulator](/images/task_space_mpc.GIF "Task Space MPC for Vineyard Spraying with a Mobile Manipulator"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-          <mark>Manipulation</mark><mark>Navigation</mark><mark>SLAM</mark><mark>Autonomy</mark>
+          <mark>Mobile manipulation</mark> <mark>MPC</mark> <mark>Redundancy resolution</mark>
           
       - layout: top-middle
         title: Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying 
         description: | # this will include new lines to allow paragraphs
           ![Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying](/images/prioritized_spraying.GIF "Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-
+          <mark>Robot manipulation</mark> <mark>Prioritized optimization</mark> <mark>Redundancy resolution</mark>
+          
       - layout: top-middle
         title: Prioritized Inverse Kinematics ROS Library
         link: github.com/ivatavuk/pik_ros
@@ -84,17 +85,19 @@ content:
             url: github.com/ivatavuk/pik_ros
         description: | # this will include new lines to allow paragraphs
           ![Prioritized Inverse Kinematics ROS Library](/images/pik_spraying.png "Prioritized Inverse Kinematics ROS Library"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          <mark>Robot manipulation</mark> <mark>Inverse kinematics</mark> <mark>Prioritized optimization</mark> <mark>Redundancy resolution</mark>
           
       - layout: top-middle
         title: Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering
         description: | # this will include new lines to allow paragraphs
           ![Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering](/images/direct_drive_brush.GIF "Direct Drive Brush-Shaped Tool for Compliant Robotic Vine Suckering"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-      
+          <mark>Direct drive actuation</mark> <mark>Compliant manipulation</mark> 
+          
       - layout: top-middle
         title: Plan Exploration for Viticultural Suckering using an Axis Symmetric Brush-Shaped Tool with Torque Sensing
         description: | # this will include new lines to allow paragraphs
           ![Plan Exploration](/images/suckering.GIF "Plan Exploration"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
-      
+          <mark>Compliant manipulation</mark> <mark>Prioritized optimization</mark> <mark>Redundancy resolution</mark>
 
   #- title: Experience # Title for the section
   #  layout: list # Type of content section (list/text)
