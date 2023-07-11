@@ -119,9 +119,9 @@ content:
           Paper: https://doi.org/10.3390/s23031195
           
       - layout: top-middle
-        title: Plan Exploration for Viticultural Suckering using an Axis Symmetric Brush-Shaped Tool with Torque Sensing
+        title: Plant Exploration for Viticultural Suckering using an Axis Symmetric Brush-Shaped Tool with Torque Sensing
         description: | # this will include new lines to allow paragraphs
-          ![Plan Exploration](/images/suckering.GIF "Plan Exploration"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
+          ![Plant Exploration](/images/suckering.GIF "Plant Exploration"){: width="50%"}{: style="display:block; margin-left: auto; margin-right: auto;"}
           <mark>Compliant manipulation</mark> <mark>Prioritized optimization</mark> <mark>Redundancy resolution</mark>
 
   #- title: Experience # Title for the section
